@@ -3,23 +3,15 @@
 A responsive Netflix homepage clone built using HTML5 and CSS3. This project replicates the look and feel of the official Netflix landing page for both desktop and mobile views.
 
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 [View Live](https://github.com/Ishani-yadav/Netflix-Clone.git)
 
 
-📸 Screenshots
 
+### 📸 Screenshots
 
- 🖥️ Desktop View
-
-# Netflix Clone 🎬
-
-A simple and responsive clone of the Netflix homepage built using only HTML5 and CSS3.
-
-## 📸 Screenshots
-
-### 🖥️ Desktop View
+#### 🖥️ Desktop View
 
 ![Desktop Screenshot 1](Desktop_Images/desktop1.png)  
 ![Desktop Screenshot 2](Desktop_Images/desktop2.png)  
@@ -31,14 +23,14 @@ A simple and responsive clone of the Netflix homepage built using only HTML5 and
 
 
 
-### 📱 Mobile View
+##### 📱 Mobile View
 
 ![Mobile Screenshot 1](Mobile_Images/mobile1.png)  
 ![Mobile Screenshot 2](Mobile_Images/mobile2.png)  
 ![Mobile Screenshot 3](Mobile_Images/mobile3.png)
 
 
-### ✨ Features
+###### ✨ Features
 
 
 🔥 Fully responsive design for mobile and desktop
@@ -59,7 +51,7 @@ A simple and responsive clone of the Netflix homepage built using only HTML5 and
 
 
 
-### 🛠️ Technologies Used
+###### 🛠️ Technologies Used
 
 - HTML5
 - CSS3
