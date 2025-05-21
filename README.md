@@ -86,7 +86,9 @@ Netflix-Clone/
 │   └── ...         ```
 
 
-### 🧑‍💻 Getting Started
+
+
+ 🧑‍💻 Getting Started
 
 To get a local copy up and running, follow these simple steps:
 
@@ -100,12 +102,15 @@ Open index.html in your browser
 You can also use Live Server in VS Code to preview the project.
 
 
-### 📈 Project Status
+
+
+ 📈 Project Status
 
 This project is currently under development.
 
 
-### 📌 Upcoming features:
+
+ 📌 Upcoming features:
 
 JavaScript integration for interactive components (e.g., sliders, pop-ups)
 
@@ -114,14 +119,14 @@ Dark mode toggle
 Improved accessibility
 
 
-### 🙏 Acknowledgements
+ 🙏 Acknowledgements
 Inspired by the official Netflix UI
 
 Thanks to [Sigma Web Development Course] for HTML/CSS guidance
 
 
 
-### 📬 Contact
+ 📬 Contact
 
 If you liked this project or want to collaborate, feel free to connect:
 GitHub: @Ishani-yadav
