@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-🎬 Netflix Clone
+# 🎬 Netflix Clone
+
 A responsive Netflix homepage clone built using HTML5 and CSS3. This project replicates the look and feel of the official Netflix landing page for both desktop and mobile views.
 
 
@@ -12,7 +12,7 @@ A responsive Netflix homepage clone built using HTML5 and CSS3. This project rep
 
 
  🖥️ Desktop View
-=======
+
 # Netflix Clone 🎬
 
 A simple and responsive clone of the Netflix homepage built using only HTML5 and CSS3.
@@ -20,7 +20,6 @@ A simple and responsive clone of the Netflix homepage built using only HTML5 and
 ## 📸 Screenshots
 
 ### 🖥️ Desktop View
->>>>>>> df8aeba (Add README with screenshots)
 
 ![Desktop Screenshot 1](Desktop_Images/desktop1.png)  
 ![Desktop Screenshot 2](Desktop_Images/desktop2.png)  
@@ -29,18 +28,17 @@ A simple and responsive clone of the Netflix homepage built using only HTML5 and
 ![Desktop Screenshot 5](Desktop_Images/desktop5.png)  
 ![Desktop Screenshot 6](Desktop_Images/desktop6.png)  
 
-<<<<<<< HEAD
- 📱 Mobile View
-=======
+
+
+
 ### 📱 Mobile View
->>>>>>> df8aeba (Add README with screenshots)
 
 ![Mobile Screenshot 1](Mobile_Images/mobile1.png)  
 ![Mobile Screenshot 2](Mobile_Images/mobile2.png)  
 ![Mobile Screenshot 3](Mobile_Images/mobile3.png)
-<<<<<<< HEAD
 
-✨ Features
+
+### ✨ Features
 
 
 🔥 Fully responsive design for mobile and desktop
@@ -61,11 +59,13 @@ A simple and responsive clone of the Netflix homepage built using only HTML5 and
 
 
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - Visual Studio Code
+
+### 📁 Folder Structure
 
 ```
 Netflix-Clone/
@@ -94,7 +94,7 @@ Netflix-Clone/
 │   └── ...         ```
 
 
-🧑‍💻 Getting Started
+### 🧑‍💻 Getting Started
 
 To get a local copy up and running, follow these simple steps:
 
@@ -108,10 +108,12 @@ Open index.html in your browser
 You can also use Live Server in VS Code to preview the project.
 
 
-📈 Project Status
+### 📈 Project Status
 
 This project is currently under development.
-📌 Upcoming features:
+
+
+### 📌 Upcoming features:
 
 JavaScript integration for interactive components (e.g., sliders, pop-ups)
 
@@ -120,18 +122,21 @@ Dark mode toggle
 Improved accessibility
 
 
-🙏 Acknowledgements
+### 🙏 Acknowledgements
 Inspired by the official Netflix UI
 
 Thanks to [Sigma Web Development Course] for HTML/CSS guidance
 
 
 
-📬 Contact
+### 📬 Contact
 
 If you liked this project or want to collaborate, feel free to connect:
 GitHub: @Ishani-yadav
 LinkedIn: ishani-yadav-7448is
 
-=======
->>>>>>> df8aeba (Add README with screenshots)
+
+I’m always open to feedback, suggestions, and exciting new opportunities!
+
+
+
