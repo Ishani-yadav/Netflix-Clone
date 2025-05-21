@@ -11,22 +11,9 @@ https://github.com/Ishani-yadav/Netflix-Clone.git
 
 📸 Screenshots
 
-💻 Desktop View  
-<p align="center">
-  <img src="./Desktop%20Images/desktop1.png" width="800" />
-  <img src="./Desktop%20Images/desktop2.png" width="800" />
-  <img src="./Desktop%20Images/desktop3.png" width="800" />
-  <img src="./Desktop%20Images/desktop4.png" width="800" />
-  <img src="./Desktop%20Images/desktop5.png" width="800" />
-  <img src="./Desktop%20Images/desktop6.png" width="800" />
-</p>
+![Desktop View](Desktop%20Images/desktop1.png)
+![Mobile View](Mobile%20Images/mobile1.png)
 
-📱 Mobile View  
-<p align="center">
-  <img src="./Mobile%20Images/mobile1.png" width="300" />
-  <img src="./Mobile%20Images/mobile2.png" width="300" />
-  <img src="./Mobile%20Images/mobile3.png" width="300" />
-</p>
 
 
 
