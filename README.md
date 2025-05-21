@@ -9,7 +9,6 @@ A responsive Netflix homepage clone built using HTML5 and CSS3. This project rep
 
 📸 Screenshots
 
- 📸 Screenshots
 
  🖥️ Desktop View
 
